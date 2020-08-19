@@ -1,21 +1,39 @@
 [submodule "VRChat-AssetMerger"]
 	path = VRChat-AssetMerger
 	url = https://github.com/mika-f/VRChat-AssetMerger.git
+	ignore = dirty
 [submodule "Unity-ConstraintByHumanoid"]
-	path = Unity-ConstraintByHumanoid
+	path = Disabled~/Unity-ConstraintByHumanoid
 	url = https://github.com/mika-f/Unity-ConstraintByHumanoid.git
+	ignore = dirty
 [submodule "BlendShapeCombiner"]
 	path = BlendShapeCombiner
 	url = https://github.com/chigirits/BlendShapeCombiner.git
 [submodule "VRCAvatarEditor_Avatars3.0"]
 	path = VRCAvatarEditor_Avatars3.0
 	url = https://github.com/gatosyocora/VRCAvatarEditor_Avatars3.0.git
+	ignore = untracked
 [submodule "UnityClothSkirtHelper"]
 	path = UnityClothSkirtHelper
 	url = https://github.com/esnya/UnityClothSkirtHelper.git
 [submodule "VRCDeveloperTool"]
 	path = VRCDeveloperTool
 	url = https://github.com/gatosyocora/VRCDeveloperTool.git
+	ignore = dirty
 [submodule "EsnyaToolsAvatar3.0"]
 	path = EsnyaToolsAvatar3.0
 	url = https://github.com/esnya/EsnyaToolsAvatar3.0.git
+[submodule "VRCHierarchyHighlighter"]
+	path = VRCHierarchyHighlighter
+	url = https://github.com/esnya/VRCHierarchyHighlighter.git
+	ignore = untracked
+[submodule "Av3Emulator"]
+	path = Av3Emulator
+	url = https://github.com/lyuma/Av3Emulator.git
+[submodule "Editor/Unity-Resource-Checker"]
+	path = Editor/Unity-Resource-Checker
+	url = https://github.com/handcircus/Unity-Resource-Checker.git
+	ignore = untracked
+[submodule "CopyComponentsByRegex"]
+	path = CopyComponentsByRegex
+	url = https://github.com/Taremin/CopyComponentsByRegex.git
