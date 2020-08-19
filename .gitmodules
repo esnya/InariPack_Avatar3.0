@@ -12,10 +12,11 @@
 [submodule "VRCAvatarEditor_Avatars3.0"]
 	path = VRCAvatarEditor_Avatars3.0
 	url = https://github.com/gatosyocora/VRCAvatarEditor_Avatars3.0.git
-	ignore = untracked
+	ignore = dirty
 [submodule "UnityClothSkirtHelper"]
 	path = UnityClothSkirtHelper
 	url = https://github.com/esnya/UnityClothSkirtHelper.git
+	ignore = dirty
 [submodule "VRCDeveloperTool"]
 	path = VRCDeveloperTool
 	url = https://github.com/gatosyocora/VRCDeveloperTool.git
@@ -37,3 +38,13 @@
 [submodule "CopyComponentsByRegex"]
 	path = CopyComponentsByRegex
 	url = https://github.com/Taremin/CopyComponentsByRegex.git
+[submodule "UnityChanToonShaderVer2_Project"]
+	path = UnityChanToonShaderVer2_Project
+	url = https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project.git
+	ignore = dirty
+[submodule "EsnyaUnityTools"]
+	path = EsnyaUnityTools
+	url = https://github.com/esnya/EsnyaUnityTools.git
+[submodule "Marker"]
+	path = Marker
+	url = https://github.com/esnya/Marker.git
