@@ -1,0 +1,21 @@
+[submodule "VRChat-AssetMerger"]
+	path = VRChat-AssetMerger
+	url = https://github.com/mika-f/VRChat-AssetMerger.git
+[submodule "Unity-ConstraintByHumanoid"]
+	path = Unity-ConstraintByHumanoid
+	url = https://github.com/mika-f/Unity-ConstraintByHumanoid.git
+[submodule "BlendShapeCombiner"]
+	path = BlendShapeCombiner
+	url = https://github.com/chigirits/BlendShapeCombiner.git
+[submodule "VRCAvatarEditor_Avatars3.0"]
+	path = VRCAvatarEditor_Avatars3.0
+	url = https://github.com/gatosyocora/VRCAvatarEditor_Avatars3.0.git
+[submodule "UnityClothSkirtHelper"]
+	path = UnityClothSkirtHelper
+	url = https://github.com/esnya/UnityClothSkirtHelper.git
+[submodule "VRCDeveloperTool"]
+	path = VRCDeveloperTool
+	url = https://github.com/gatosyocora/VRCDeveloperTool.git
+[submodule "EsnyaToolsAvatar3.0"]
+	path = EsnyaToolsAvatar3.0
+	url = https://github.com/esnya/EsnyaToolsAvatar3.0.git
