@@ -1,0 +1,11 @@
+{
+  "git.ignoredRepositories": [
+    "VRChat-AssetMerger",
+    "BlendShapeCombiner",
+    "VRCAvatarEditor_Avatars3.0",
+    "VRCDeveloperTool",
+    "Av3Emulator",
+    "Unity-Resource-Checker",
+    "Disabled~/Unity-ConstraintByHumanoid"
+  ]
+}
