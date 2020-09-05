@@ -48,3 +48,12 @@
 [submodule "Marker"]
 	path = Marker
 	url = https://github.com/esnya/Marker.git
+[submodule "DBController"]
+	path = DBController
+	url = https://gist.github.com/2da9679086cdfed9e08f9d23635448ac.git
+[submodule "Arktoon-Shaders"]
+	path = Arktoon-Shaders
+	url = https://github.com/synqark/Arktoon-Shaders.git
+[submodule "VRWorldToolkit"]
+	path = VRWorldToolkit
+	url = https://github.com/oneVR/VRWorldToolkit.git
