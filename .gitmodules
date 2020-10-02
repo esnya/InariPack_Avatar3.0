@@ -45,9 +45,6 @@
 [submodule "EsnyaUnityTools"]
 	path = EsnyaUnityTools
 	url = https://github.com/esnya/EsnyaUnityTools.git
-[submodule "Marker"]
-	path = Marker
-	url = https://github.com/esnya/Marker.git
 [submodule "DBController"]
 	path = DBController
 	url = https://gist.github.com/2da9679086cdfed9e08f9d23635448ac.git
@@ -57,3 +54,9 @@
 [submodule "VRWorldToolkit"]
 	path = VRWorldToolkit
 	url = https://github.com/oneVR/VRWorldToolkit.git
+[submodule "Just1Int7Toggles"]
+	path = Just1Int7Toggles
+	url = https://github.com/hai-vr/Just1Int7Toggles.git
+[submodule "Marker"]
+	path = Marker
+	url = https://github.com/theepicsnail/Marker.git
