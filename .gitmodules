@@ -65,3 +65,7 @@
 	path = uRaymarching
 	url = https://github.com/hecomi/uRaymarching.git
 	ignore = dirty
+[submodule "PoiyomiToonShader"]
+	path = PoiyomiToonShader
+	url = https://github.com/poiyomi/PoiyomiToonShader.git
+  ignore = dirty
