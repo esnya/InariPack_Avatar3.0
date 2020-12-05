@@ -69,3 +69,6 @@
 	path = PoiyomiToonShader
 	url = https://github.com/poiyomi/PoiyomiToonShader.git
   ignore = dirty
+[submodule "MomomaTools"]
+	path = MomomaTools
+	url = https://github.com/momoma-null/MomomaTools.git
