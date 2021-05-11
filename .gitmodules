@@ -71,3 +71,6 @@
 [submodule "combo-gesture-expressions-av3"]
 	path = combo-gesture-expressions-av3
 	url = https://github.com/hai-vr/combo-gesture-expressions-av3.git
+[submodule "VSCode"]
+	path = VSCode
+	url = https://github.com/dotBunny/VSCode.git
