@@ -2,10 +2,6 @@
 	path = VRChat-AssetMerger
 	url = https://github.com/mika-f/VRChat-AssetMerger.git
 	ignore = dirty
-[submodule "Unity-ConstraintByHumanoid"]
-	path = Disabled~/Unity-ConstraintByHumanoid
-	url = https://github.com/mika-f/Unity-ConstraintByHumanoid.git
-	ignore = dirty
 [submodule "BlendShapeCombiner"]
 	path = BlendShapeCombiner
 	url = https://github.com/chigirits/BlendShapeCombiner.git
@@ -72,3 +68,6 @@
 [submodule "MomomaTools"]
 	path = MomomaTools
 	url = https://github.com/momoma-null/MomomaTools.git
+[submodule "combo-gesture-expressions-av3"]
+	path = combo-gesture-expressions-av3
+	url = https://github.com/hai-vr/combo-gesture-expressions-av3.git
